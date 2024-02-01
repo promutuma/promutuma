@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Franklin Mutuma
+# Hi there 👋 My name is Franklin Mutuma
 
 ## Software Developer | Aspiring Cybersecurity Expert
 
