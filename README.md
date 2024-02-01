@@ -1,8 +1,3 @@
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
-</picture>
 
 # Hi there 👋 My name is Franklin Mutuma
 
@@ -24,6 +19,10 @@ Welcome to my GitHub profile! I'm Franklin Mutuma, a passionate software develop
 I've also contributed to the development of an employee clocking system, streamlining time management processes.
 
 Feel free to explore my repositories to see more of my work. If you have any questions or collaboration ideas, don't hesitate to reach out. Let's connect and create amazing things together!
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=promutuma&show_icons=true&hide_title=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=promutuma&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [LinkedIn](https://www.linkedin.com/in/framutuma/)
 [Twitter](https://twitter.com/framutuma)
