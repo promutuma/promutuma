@@ -3,6 +3,8 @@
 
 ## Software Developer | Aspiring Cybersecurity Expert
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=promutuma)](https://github.com/ryo-ma/github-profile-trophy)
+
 Welcome to my GitHub profile! I'm Franklin Mutuma, a passionate software developer with a keen interest in cybersecurity. I've worked on various projects, including websites and web applications. Here are some of my notable projects:
 
 ### Websites:
