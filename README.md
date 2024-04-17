@@ -6,7 +6,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=promutuma)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-Welcome to my GitHub profile! I'm Franklin Mutuma, a passionate software developer with a keen interest in cybersecurity. I've worked on various projects, including websites and web applications. Here are some of my notable projects:
+Welcome to my GitHub profile! I'm Franklin Mutuma, a passionate software developer with a keen interest in cybersecurity. I've worked on various projects, including websites and web applications. Here are some of my notable projects mostly developed using PHP as the main language. 
 
 ### Websites:
 - [Cetrad.org](https://cetrad.org)
@@ -17,6 +17,7 @@ Welcome to my GitHub profile! I'm Franklin Mutuma, a passionate software develop
 ### Web Applications:
 - [Online.cetrad.org](https://online.cetrad.org)
 - [App.eelam.co.ke](https://app.eelam.co.ke)
+- A team project for [Majihub Solutions](https://techlink.majhubcloud.com/)
 
 ### Employee Clocking System:
 I've also contributed to the development of an employee clocking system, streamlining time management processes.
